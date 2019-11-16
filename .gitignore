@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# custom
+cmake-build-debug/*
+src/config.h
